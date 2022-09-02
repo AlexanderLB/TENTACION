@@ -21,8 +21,11 @@ a{
 
 a:link{
 	color: #FFFFFF;
+	
 }
-
+a:visited{
+	color: #FFFFFF;
+}
 .link{
 	font-size: 300%;
 }
