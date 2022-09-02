@@ -2,4 +2,10 @@ body{
     background-image: url(img/background1.png);
 	background-position: 50%;
 	background-size: 160%;
+	position: absolute;
+}
+.menu2{
+	color: #ffffff;
+	padding-top: 15%;
+	margin-left: 10px;
 }
