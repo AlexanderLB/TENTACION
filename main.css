@@ -1,0 +1,28 @@
+body{
+	background-image: url(img/background.jpg);
+	background-position: 50%;
+	background-size: 160%;
+}
+h1{
+	color: white;
+	margin-bottom: 8%;
+	text-align: center;
+	font-size: 300%;
+
+}
+nav{
+	padding-top: 10%;
+}
+a{
+	text-decoration: none;
+	outline: none;
+	font-size: 150%;
+}
+
+a:link{
+	color: #FFFFFF;
+}
+
+.link{
+	font-size: 300%;
+}
