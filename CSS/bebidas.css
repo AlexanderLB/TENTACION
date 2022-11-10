@@ -1,0 +1,27 @@
+body{
+    background-image: url('/IMG/tentacion1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+h1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: white;
+}
+
+p{
+    color: white;
+    margin: 0cm 1cm 1cm 1cm;
+}
+
+.container{    
+    color: white;
+}
+
+.links_style{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalam:wght@300&family=Roboto+Mono:wght@100;700&display=swap');
+
+body{
+    background-image: url('/IMG/tentacion1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: 'Roboto Mono';
+    font-size: 300%;
+    color: white;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 1cm;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-family: 'Kalam';
+    font-size: 300%;
+}
+
+.social_media{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-block-start: 1.5cm;
+}
+
+.media_links{
+    margin-inline: 7%;
+    filter: drop-shadow(0px 0px 10px white);
+}
+
+
+
